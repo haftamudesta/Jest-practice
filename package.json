@@ -1,0 +1,23 @@
+{
+  "name": "jest-practice-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jestTest.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haftamudesta/Jest-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haftamudesta/Jest-practice/issues"
+  },
+  "homepage": "https://github.com/haftamudesta/Jest-practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
